@@ -1,4 +1,4 @@
-//this is first version
+//this is sixth version
 int main(void) {
-	printf("This is version 1");
+	printf("This is version 6");
 }
